@@ -1,0 +1,40 @@
+{
+    "expo": {
+      "name": "KhataManager",
+      "slug": "KhataManager-mobile",
+      "privacy": "public",
+      "platforms": [
+        "ios",
+        "android",
+        "web"
+      ],
+      "version": "2.0.1",
+      "orientation": "portrait",
+      "icon": "./assets/logo.png",
+      "splash": {
+        "image": "./assets/splash-screen.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "android": {
+        "permissions": [
+          "READ_EXTERNAL_STORAGE",
+          "WRITE_EXTERNAL_STORAGE",
+          "NOTIFICATIONS"
+        ],
+        "package": "com.app.khatamanager",
+        "versionCode": 3
+      },
+      "ios": {
+        "supportsTablet": true
+      },
+      "description": ""
+    }
+  }
+  

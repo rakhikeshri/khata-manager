@@ -1,0 +1,18 @@
+{
+    "api": {
+        "host": "http://api.khatamanager.com",
+        "root": "/v1"
+    },
+    "firebase": {
+        "apiKey":"AIzaSyAyf8bZyekjcPZAeD6ENR4JzY-P2ZjEgm4",
+        "authDomain": "khatamanager-5be0d.firebaseapp.com",
+        "projectId": "khatamanager-5be0d",
+        "storageBucket": "khatamanager-5be0d.appspot.com",
+        "senderId": "152780049457",
+        "appId": "1:152780049457:web:7e81d4df9db36c75841910",
+        "measurementId": "G-T810SE3JCC"
+    },
+    "google": {
+        "visionApiKey": "AIzaSyBJA0oC7gZ5WdSs5-RSBRosW7U5p1v3c4c"
+    }
+}

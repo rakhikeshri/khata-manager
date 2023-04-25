@@ -1,0 +1,6 @@
+{
+    "api": {
+        "host": "http://api.khatamanager.com",
+        "root": "/v1"
+    }
+}
